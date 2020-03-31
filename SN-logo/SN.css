@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .container {
+    border: 2px solid blue;
+  }
+  
+  .coin {
+    margin: 100px;
+  }
